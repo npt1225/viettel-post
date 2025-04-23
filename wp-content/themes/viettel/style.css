@@ -10350,7 +10350,7 @@ body {
 }
 
 .top-hd {
-    background: #EE0033;
+    background: #183051;
     padding: 25px 0;
 }
 
@@ -10367,7 +10367,7 @@ header .container {
 }
 
 .logo img {
-    height: 40px;
+    height: 80px;
 }
 
 header .col-right {
@@ -10477,7 +10477,7 @@ header>.menu {
 }
 
 .menu ul li a:hover {
-    background: #EE0033;
+    background: #183051;
     color: #fff;
     text-decoration: none;
 }
@@ -10624,7 +10624,7 @@ ul.login li:first-child a:before {
 }
 
 #bn:after {
-    background: #EE0033;
+    background: #183051;
     content: '';
     display: inline-block;
     height: 5px;
@@ -10667,7 +10667,7 @@ footer {
 .line-footer {
     height: 7px;
     width: 100%;
-    background: #EE0033;
+    background: #183051;
 }
 
 #ftop {
@@ -10723,7 +10723,7 @@ footer {
 }
 
 #fbot .col-md-5 i {
-    background: #EE0033;
+    background: #183051;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     background-clip: text;
@@ -10736,7 +10736,7 @@ footer {
 }
 
 #fbot .col-md-7 i {
-    background: #EE0033;
+    background: #183051;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     background-clip: text;

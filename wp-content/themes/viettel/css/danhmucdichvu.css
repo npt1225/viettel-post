@@ -1,6 +1,6 @@
 .sidebar-header {
     /*height: 50px;*/
-    background: #EE0033;
+    background: #183051;
     padding: 8px 25px;
     display: flex;
     align-items: center;
@@ -15,7 +15,7 @@
 .service-menu a:hover,
 .service-menu li.current-menu-item>a,
 .service-menu li.current-menu-parent>a {
-    color: #EE0033;
+    color: #183051;
 }
 
 .service-menu,
