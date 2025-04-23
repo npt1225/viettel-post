@@ -1,0 +1,79 @@
+.sidebar-header {
+    /*height: 50px;*/
+    background: #EE0033;
+    padding: 8px 25px;
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+    line-height: 34px;
+    color: #fff;
+    /*text-transform: uppercase;*/
+    margin-bottom: 25px;
+    /*font-weight: bold;*/
+}
+
+.service-menu a:hover,
+.service-menu li.current-menu-item>a,
+.service-menu li.current-menu-parent>a {
+    color: #EE0033;
+}
+
+.service-menu,
+.service-menu ul {
+    list-style: none;
+}
+
+.service-menu ul {
+    padding-left: 55px;
+}
+
+.service-menu img {
+    width: 24px;
+    margin-right: 10px;
+    height: 24px;
+    object-fit: cover;
+}
+
+.service-menu>li {
+    border-bottom: 1px solid #8B8B8B;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.sidebar-service .title p,
+.service-menu>li>a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-left: 5px solid #FF4F44;
+    display: block;
+    padding-left: 10px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: bold;
+    color: #8B8B8B;
+    margin-bottom: 20px;
+
+}
+
+.sidebar-service .title p.collapsed {
+    border-left: none;
+    padding-left: 0px;
+}
+
+.sidebar-service .title p {
+    cursor: pointer;
+}
+
+.sidebar-service .card-body {
+    padding-top: 0px;
+}
+
+.sidebar-service .card-body a,
+.service-menu ul a {
+    color: #8B8B8B;
+    font-size: 18px;
+    line-height: 24px;
+    display: block;
+    padding-bottom: 15px;
+}
